@@ -1,0 +1,14 @@
+{
+  "name": "world-clock-api",
+  "version": "1.0.0",
+  "description": "AC1DST4R World Clock API",
+  "main": "index.js",
+  "engines": {
+    "node": "20"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "firebase-functions": "^6.3.2"
+  }
+}
